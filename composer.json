@@ -1,10 +1,10 @@
 {
-    "name": "elcodedocle/chbspassgen",
+    "name": "xandercage434/ai-course",
     "type": "class",
-    "description": "Safe and easy to remember high entropy password generator. Dictionary based, yet brute force resistant.",
+    "description": "Intellipaat offers a comprehensive Artificial Intelligence program that will help you work on today cutting-edge technology Artificial Intelligence (AI). .",
     "keywords": ["password generator", "high entropy", "secure password", "password security"],
-    "homepage": "https://github.com/elcodedocle/chbspassgen",
-    "license": "MIT",
+    "homepage": "https://github.com/xandercage434/ai-course",
+    "license": "intellipaat",
     "require": {
         "php": ">=5.3.0"
     }
