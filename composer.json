@@ -4,7 +4,7 @@
     "description": "Join the best Artificial intelligence Training Course.",
     "keywords": ["artificial intelligence", "training course", "ai course", "ai certification"],
     "homepage": "https://github.com/xandercage434/ai-course",
-    "license": "intellipaat",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0"
     }
